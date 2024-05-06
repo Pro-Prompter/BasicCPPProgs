@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "ostream": "cpp"
+    },
+    "code-runner.runInTerminal": true,
+    "C_Cpp.errorSquiggles": "enabled",
+    "C_Cpp.default.compilerPath": "c:\\msys64\\mingw64.exe"
+}
